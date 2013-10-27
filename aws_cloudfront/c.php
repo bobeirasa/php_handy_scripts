@@ -25,7 +25,7 @@ function GoogleGraphStr()
     $result="['Date', 'Terabytes']";
     foreach($usage as $i=>$B)
     {
-        $result.=", ['". assembleDate($i) ."', ". round(pow($B,4),2) ."]";
+        $result.=", ['". assembleDate($i) ."', ". round($B/1024/1024/1024/1024,2) ."]";
     }
     return $result;
 }
