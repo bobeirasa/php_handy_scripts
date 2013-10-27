@@ -1,0 +1,4881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>59734097509</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>59714466756</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>19630753</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>3863707524</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>741728</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>10743596990334</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>18959</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>575701</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>1473</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>101837684</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>594660</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>105512060</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>1473</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>10747460697858</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>741728</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>3674376</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>54594</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>109</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>109</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/01/13 00:00:00</StartTime>
+		<EndTime>10/02/13 00:00:00</EndTime>
+		<UsageValue>54594</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>56006475432</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>55986488984</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>19986448</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>3838988013</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>417112</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>9985662993194</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>19306</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>578366</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>832</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>103342576</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>597672</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>106973414</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>834</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>9989501981207</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>418076</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>3630838</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>964</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>47143</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>94</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>94</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/02/13 00:00:00</StartTime>
+		<EndTime>10/03/13 00:00:00</EndTime>
+		<UsageValue>47143</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>655084</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>20193</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>9907834348709</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>493861</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>3803302011</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>1926</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>21184383</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>62325950232</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>988</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>105772502</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>62347134615</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>675277</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>109410181</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>992</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>9911637650720</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>495787</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>3637679</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>4</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>27068</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>54</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>54</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/03/13 00:00:00</StartTime>
+		<EndTime>10/04/13 00:00:00</EndTime>
+		<UsageValue>27068</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>67785132155</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>67766072803</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>19059352</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>3962024373</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>164384</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>12352005955187</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>18396</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>706931</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>335</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>130774591</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>725327</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>134526763</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>337</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>12355967979560</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>165346</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>3752172</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>962</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>39627</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>79</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>79</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/04/13 00:00:00</StartTime>
+		<EndTime>10/05/13 00:00:00</EndTime>
+		<UsageValue>39627</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>780075</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>19065</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>13451240260789</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>259270</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>3834138120</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>2886</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>19847831</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>73736216952</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>533</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>142443340</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>73756064783</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>799140</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>146094579</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>539</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>13455074398909</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>262156</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>3651239</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>6</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>44540</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>89</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>89</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/05/13 00:00:00</StartTime>
+		<EndTime>10/06/13 00:00:00</EndTime>
+		<UsageValue>44540</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>834927</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>21273</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>12395683409338</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>332494</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>3773762366</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>21964672</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>65028434005</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>668</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>150689853</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>65050398677</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>856200</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>154193135</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>669</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>12399457171704</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>332975</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>3503282</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>1</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>481</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>40614</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>81</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>81</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/06/13 00:00:00</StartTime>
+		<EndTime>10/07/13 00:00:00</EndTime>
+		<UsageValue>40614</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>66640313169</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>20356823</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>3972118400</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>12486540780217</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>19638</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>1013246</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>184221990</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>3737763</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>12490512898617</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>187959753</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>1032884</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>66660669992</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>307374</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>615</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>307374</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>615</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>65707</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>131</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>131</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/07/13 00:00:00</StartTime>
+		<EndTime>10/08/13 00:00:00</EndTime>
+		<UsageValue>65707</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>78193305251</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>78172534349</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>20770902</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>3941182311</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>312469</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>13642020144463</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>19861</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>1194986</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>629</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>213847151</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>1214847</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>217587232</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>633</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>13645961326774</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>314393</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>3740081</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>110447</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>220</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>220</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>110447</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>1924</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/08/13 00:00:00</StartTime>
+		<EndTime>10/09/13 00:00:00</EndTime>
+		<UsageValue>4</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>192954815604</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>37363889</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>3857320261</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>19687281378496</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>35836</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>2280772</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>236332918</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>192992179493</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>2316608</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>239976124</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>19691138698757</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>3643206</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>60881</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>248140</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>121</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>495</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>249102</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>497</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>121</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>60881</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>962</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/09/13 00:00:00</StartTime>
+		<EndTime>10/10/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>234</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>25679</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>6</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>30358308029083</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>184568</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>4018354169</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>27372199</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>2981</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>206029590088</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>117475</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>1830675</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>366</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>206056962287</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>120456</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>1856354</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>240</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>261979961</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>366</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>30362326383252</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>184568</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>3621714</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/10/13 00:00:00</StartTime>
+		<EndTime>10/11/13 00:00:00</EndTime>
+		<UsageValue>258358247</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>1444822</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>17581</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>37348252369779</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>334678</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>4063398447</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>18408556</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>202792809480</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>663</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>271616588</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>202811218036</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>1462403</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>275120285</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>665</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>37352315768226</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>335642</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>3503697</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>117642</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>233</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>233</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>117642</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>964</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/11/13 00:00:00</StartTime>
+		<EndTime>10/12/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>202278114472</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>20863196</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>3508725116</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>733547</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>33438985961972</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>20161</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>1269322</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>1455</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>216081243</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>202298977668</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>1289483</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>219306486</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>1457</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>33442494687088</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>734511</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>3225243</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>964</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>117115</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>232</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>232</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/12/13 00:00:00</StartTime>
+		<EndTime>10/13/13 00:00:00</EndTime>
+		<UsageValue>117115</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>861217</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>19971</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>21497515370863</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>318473</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>3408156963</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>20820653</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>122701698587</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>632</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>150094103</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>122722519240</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>881188</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>153367984</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>632</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>21500923527826</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>318473</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>3273881</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>120218</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>239</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>239</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/13/13 00:00:00</StartTime>
+		<EndTime>10/14/13 00:00:00</EndTime>
+		<UsageValue>120218</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>830260</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>22136</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>16261293835435</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>376943</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>3994685843</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>26322577</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>88446976408</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>749</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>143875803</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>88473298985</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>852396</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>147697907</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>749</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>16265288521278</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>376943</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>3822104</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>49966</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>100</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>100</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/14/13 00:00:00</StartTime>
+		<EndTime>10/15/13 00:00:00</EndTime>
+		<UsageValue>49966</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>57843427722</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>22874333</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>4058482735</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>10196901840698</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>21759</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>715732</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>119889293</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>3902168</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>10200960323433</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>123791461</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>737491</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>57866302055</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>692371</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>1376</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>693333</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>1378</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>47017</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>94</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>94</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>47017</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/15/13 00:00:00</StartTime>
+		<EndTime>10/16/13 00:00:00</EndTime>
+		<UsageValue>962</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>53709720676</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>53687867381</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>21853295</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>4002892935</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>462379</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>9291387361259</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>21057</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>667885</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>919</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>111549368</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>3818780</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>462379</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>9295390254194</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>919</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>115368148</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>688942</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>60480</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>121</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>121</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/16/13 00:00:00</StartTime>
+		<EndTime>10/17/13 00:00:00</EndTime>
+		<UsageValue>60480</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>53569420025</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>22131139</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>3917145945</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>8509680509455</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>21285</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>568296</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>91321843</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>53591551164</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>589581</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>95042672</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>8513597655400</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>3720829</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>25877</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>503789</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>52</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>1001</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>503789</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>1001</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>52</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/17/13 00:00:00</StartTime>
+		<EndTime>10/18/13 00:00:00</EndTime>
+		<UsageValue>25877</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>515369</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>19865</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>7223541520779</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>224275</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>3703498123</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>20655234</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>40434272932</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>449</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>86405304</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>40454928166</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>535234</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>89914169</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>449</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>7227245018902</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>224275</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>3508865</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>42116</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>84</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>84</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/18/13 00:00:00</StartTime>
+		<EndTime>10/19/13 00:00:00</EndTime>
+		<UsageValue>42116</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>524158</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>197</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>20847</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>6907729045434</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>170743</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>3409915256</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>21638768</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>39548122781</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>98500</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>343</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>85357583</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>39569761549</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>98500</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>545005</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>197</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>88633183</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>343</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>6911138960690</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>170743</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/19/13 00:00:00</StartTime>
+		<EndTime>10/20/13 00:00:00</EndTime>
+		<UsageValue>3275600</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>546654</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>97</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>19686</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>6604428356795</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>140229</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>3302109832</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>20442011</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>40397669167</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>48413</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>284</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>85691134</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>40418111178</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>48413</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>566340</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>97</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>88866976</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>284</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>6607730466627</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>140229</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/20/13 00:00:00</StartTime>
+		<EndTime>10/21/13 00:00:00</EndTime>
+		<UsageValue>3175842</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>552974</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>19305</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>6498580514997</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>62753</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>3556320250</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>20034830</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>40490142258</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>129</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>90674016</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>40510177088</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>572279</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>94045618</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>129</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>6502136835247</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>62753</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>3371602</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>55943</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>112</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>112</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/21/13 00:00:00</StartTime>
+		<EndTime>10/22/13 00:00:00</EndTime>
+		<UsageValue>55943</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>491565</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>84</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>21047</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>6192840085748</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>191959</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>3480618756</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>22064035</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>37913603749</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>42040</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>384</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>77693433</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>37935667784</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>42040</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>512612</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>84</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>81031464</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>384</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>6196320704504</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>191959</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/22/13 00:00:00</StartTime>
+		<EndTime>10/23/13 00:00:00</EndTime>
+		<UsageValue>3338031</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>439970</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>19382</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>6004326256974</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>387373</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>3536441819</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>20221395</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>38295656653</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>771</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>69775356</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>38315878048</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>459352</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>73112695</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>771</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>6007862698793</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>387373</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>3337339</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>29595</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>59</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/23/13 00:00:00</StartTime>
+		<EndTime>10/24/13 00:00:00</EndTime>
+		<UsageValue>29595</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>463399</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>78</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>22312</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>6271257796015</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>225522</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>3545556273</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>23538984</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>40199307160</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>39213</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>452</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>69618081</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>40222846144</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>39213</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>485711</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>78</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>73006383</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>452</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>6274803352288</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>225522</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/24/13 00:00:00</StartTime>
+		<EndTime>10/25/13 00:00:00</EndTime>
+		<UsageValue>3388302</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>378037</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>55</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>19821</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>5920862674673</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>414874</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>3554843414</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>20459742</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>34183269591</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>27535</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>824</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>61849686</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>34203729333</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>27535</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>397858</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>55</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>65250139</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>824</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>5924417518087</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>414874</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/25/13 00:00:00</StartTime>
+		<EndTime>10/26/13 00:00:00</EndTime>
+		<UsageValue>3400453</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>366175</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>19430</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>5863228328209</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>158825</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>3382927621</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>20164733</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>41324039766</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>317</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>53029607</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>41344204499</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>385605</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>56280166</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>317</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>5866611255830</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>US-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>158825</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>GET</OperationName>
+		<UsageType>US-Requests-HTTP-Dynamic</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>3250559</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-DataTransfer-Out-Bytes</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>17592</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-Tier1</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>35</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Requests-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>35</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonCloudFront</ServiceName>
+		<OperationName>HEAD</OperationName>
+		<UsageType>EU-Out-Bytes-HTTP-Static</UsageType>
+		<Resource>E3IX6ZPKI124HY</Resource>
+		<StartTime>10/26/13 00:00:00</StartTime>
+		<EndTime>10/27/13 00:00:00</EndTime>
+		<UsageValue>17592</UsageValue>
+	</OperationUsage>
+</ServiceUsage>
