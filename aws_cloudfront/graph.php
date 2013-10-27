@@ -22,6 +22,6 @@ include("c.php");
     </script>
   </head>
   <body>
-    <div id="chart_div" style="width: 10900px; height: 900px;"></div>
+    <div id="chart_div" style="width: 900px; height: 900px;"></div>
   </body>
 </html>
